@@ -6,5 +6,5 @@
 *.iml
 out
 gen
-# Compiled class file
-*.class
+# 忽略生成的class文件
+target/
